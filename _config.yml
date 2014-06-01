@@ -1,0 +1,21 @@
+# Site settings
+title: Goodrichs.net 
+email: glenn@goodrichs.net
+description: "4. Loud. Kids."
+baseurl: ""
+url: "http://goodrichs.net"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "post"
+      author: "Glenn"
+      comments: true
+
