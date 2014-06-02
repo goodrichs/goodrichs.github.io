@@ -3,7 +3,7 @@ title: Goodrichs.net
 email: glenn@goodrichs.net
 description: "4. Loud. Kids."
 baseurl: ""
-url: "http://goodrichs.net"
+url: "http://goodrichs.github.io"
 
 # Build settings
 markdown: kramdown
