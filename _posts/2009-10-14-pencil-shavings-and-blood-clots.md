@@ -1,8 +1,10 @@
 ---
+layout: post
 title: Pencil Shavings and Blood Clots
 date: '2009-10-14'
 description: Post describing my 2009 health scare
 categories: Health
+thumbnail: /images/20091014/shapeimage_1.png
 ---
 
 <img alt="Water Stain" src="{{urls.media}}/images/20091014/shapeimage_1.png" style="width:100%"/>

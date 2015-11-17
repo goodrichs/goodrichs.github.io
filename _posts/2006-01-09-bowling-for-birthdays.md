@@ -3,6 +3,7 @@ layout: post
 title: Bowling for Birthdays!
 date: 2006-01-09
 categories: Birthday
+thumbnail: /images/20060109/shapeimage_1.png
 ---
 ![I'll cry if I want to](/images/20060109/shapeimage_1.png)
 

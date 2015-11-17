@@ -3,6 +3,7 @@ layout: post
 title: We're Going to Disneyworld!
 date: 2006-02-12
 categories: Travel,Disease
+thumbnail: /images/20060212/shapeimage_1.png
 ---
 ![Cinderrella and Smella](/images/20060212/shapeimage_1.png)
 

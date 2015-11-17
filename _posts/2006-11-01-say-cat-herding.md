@@ -3,6 +3,7 @@ layout: post
 title: Say "Cat Herding!"
 date: 2006-11-01
 categories: Kids
+thumbnail: /images/20061101/shapeimage_1.png
 ---
 
 ![Black and White hides the bruises](/images/20061101/shapeimage_1.png)

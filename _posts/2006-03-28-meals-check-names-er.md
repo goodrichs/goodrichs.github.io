@@ -3,6 +3,7 @@ layout: post
 title: Meals? Check. Name? Er...
 date: 2006-03-28
 categories: Tat
+thumbnail: /images/20060328/shapeimage_1.jpg
 ---
 
 ![MMMM](/images/20060328/shapeimage_1.jpg)

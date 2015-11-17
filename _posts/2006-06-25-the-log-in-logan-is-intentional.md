@@ -3,6 +3,7 @@ layout: post
 title: The "Log" in Logan is Intentional
 date: 2006-06-25
 categories: Logan
+thumbnail: /images/20060625/shapeimage_1.png
 ---
 
 ![Not Mark Spitz](/images/20060625/shapeimage_1.png)

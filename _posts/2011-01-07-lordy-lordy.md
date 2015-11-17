@@ -1,8 +1,10 @@
 ---
+layout: post
 title: Lordy, Lordy
 date: '2011-01-07'
 description: My 40th Birthday
 categories: Birthday
+thumbnail: /images/20110107/40pic.jpg
 ---
 
 ![The big 40]({{urls.media}}/images/20110107/40pic.jpg)

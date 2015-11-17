@@ -3,6 +3,7 @@ layout: post
 title: Happy Pi Day
 date: 2006-03-14
 categories: Geek
+thumbnail: /images/20060314/shapeimage_1.png
 ---
 
 ![Jill is the real dork](/images/20060314/shapeimage_1.png)

@@ -4,6 +4,7 @@ title: Happy Birthday to Me!
 date: '2006-01-07'
 description: My 35th birthday
 categories: Birthday
+thumbnail: /images/20060107/shapeimage_1.png
 ---
 
 ![I'll cry if I want to](/images/20060107/shapeimage_1.png)

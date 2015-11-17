@@ -3,6 +3,7 @@ layout: post
 title: Through Emma's Eyes
 date: 2006-09-27
 categories: Emma
+thumbnail: /images/20060927/shapeimage_1.png
 ---
 
 ![Emma G](/images/20060927/shapeimage_1.png)

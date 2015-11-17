@@ -3,6 +3,7 @@ layout: post
 title: Le Soundtrack Goodrich 
 date: 2007-03-26
 categories: Kids
+thumbnail: /images/20070326/shapeimage_1.png
 ---
 
 ![The Beat Goes On](/images/20070326/shapeimage_1.png)

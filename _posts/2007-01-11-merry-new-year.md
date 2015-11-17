@@ -3,6 +3,7 @@ layout: post
 title: Merry New Year 
 date: 2007-01-11
 categories: Kids
+thumbnail: /images/20070111/shapeimage_1.png
 ---
 
 ![Baby New year](/images/20070111/shapeimage_1.png)

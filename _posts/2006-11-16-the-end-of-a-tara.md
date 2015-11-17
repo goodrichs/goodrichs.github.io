@@ -3,6 +3,7 @@ layout: post
 title: The End of a Tara 
 date: 2006-11-16
 categories: Tara,Pets
+thumbnail: /images/20061116/shapeimage_1.png
 ---
 
 ![Tara](/images/20061116/shapeimage_1.png)

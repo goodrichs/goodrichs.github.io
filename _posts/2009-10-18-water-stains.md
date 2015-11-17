@@ -1,8 +1,10 @@
 ---
+layout: post
 title: Water Stains
 date: '2009-10-18'
 description: 
 categories: Family
+thumbnail: /images/20091018/shapeimage_1.png
 ---
 
 <img alt="Water Stain" src="{{urls.media}}/images/20091018/shapeimage_1.png" style="width:100%"/>

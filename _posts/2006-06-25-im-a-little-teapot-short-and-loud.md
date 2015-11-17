@@ -3,6 +3,7 @@ layout: post
 title: I'm a Little Teapot, Short and Loud
 date: 2006-06-25
 categories: Emma
+thumbnail: /images/20060625/shapeimage_2.png
 ---
 
 ![She is about to kick you](/images/20060625/shapeimage_2.png)

@@ -3,6 +3,7 @@ layout: post
 title: Lily (aka Tat) is Here! 
 date: 2006-05-02
 categories: Tat
+thumbnail: /images/20060502/shapeimage_1.png
 ---
 
 ![Lily](/images/20060502/shapeimage_1.png)

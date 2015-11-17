@@ -3,6 +3,7 @@ layout: post
 title: Life Before Tat
 date: 2006-04-07
 categories: Tat
+thumbnail: /images/20060407/shapeimage_1.png
 ---
 
 ![Just 2, for now](/images/20060407/shapeimage_1.png)

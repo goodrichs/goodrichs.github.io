@@ -3,6 +3,7 @@ layout: post
 title: From Disney to Disease 
 date: 2006-02-27
 categories: Travel,Disease
+thumbnail: /images/20060227/shapeimage_1.png
 ---
 ![Disney](/images/20060227/shapeimage_1.png)
 

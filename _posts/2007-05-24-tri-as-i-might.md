@@ -3,6 +3,7 @@ layout: post
 title: Tri as I Might
 date: 2007-05-24
 categories: Glenn
+thumbnail: /images/20070524/shapeimage_1.png
 ---
 
 ![Tri](/images/20070524/shapeimage_1.png)

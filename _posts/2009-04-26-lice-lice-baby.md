@@ -1,8 +1,10 @@
 ---
 title: Lice, Lice Baby
+layout: post
 date: '2009-04-26'
 description: Lice is fun
 categories: bugs, kids, disease
+thumbnail: /images/20090426/shapeimage_1.png
 ---
 
 <img alt="Queen Nit" src="{{urls.media}}/images/20090426/shapeimage_1.png" style="width:100%"/>

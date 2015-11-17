@@ -3,6 +3,7 @@ layout: post
 title: The Duke of Emma 
 date: 2007-02-08
 categories: Emma
+thumbnail: /images/20070208/shapeimage_1.png
 ---
 
 ![Sad Emma](/images/20070208/shapeimage_1.png)

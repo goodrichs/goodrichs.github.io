@@ -3,6 +3,7 @@ layout: post
 title: School - n. An institution created to extend the lives of parents and children
 date: 2006-08-30
 categories: Kids
+thumbnail: /images/20060830/shapeimage_1.png
 ---
 
 ![Awww....GO TO SCHOOL](/images/20060830/shapeimage_1.png)

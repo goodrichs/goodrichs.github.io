@@ -3,6 +3,7 @@ layout: post
 title: Lily is Home! 
 date: 2006-05-05
 categories: Tat
+thumbnail: /images/20060505/shapeimage_1.png
 ---
 
 ![Lily is home](/images/20060505/shapeimage_1.png)
