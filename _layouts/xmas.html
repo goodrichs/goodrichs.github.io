@@ -1,5 +1,19 @@
----
-layout: nohero
----
+<!DOCTYPE html>
+<html>
 
-{{ content }}
+  {% include xmas_2015_head.html %}
+
+    <body>
+
+    {% include xmas_header.html %}
+
+    <div class="page-content">
+      <div class="wrap">
+      {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    </body>
+</html>
