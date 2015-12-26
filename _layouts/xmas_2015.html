@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  {% include xmas_2015_head.html %}
+
+    <body>
+
+
+    <div class="Hero">
+      <div class='Hero-blurb'>
+        Happy Holidays 2015
+      </div>
+      <div class="fullscreen-bg">
+	  <video loop muted autoplay poster="/images/bg.jpg" class="fullscreen-bg__video">
+       	<source src="/images/xmas2015.mp4" type="video/mp4">
+	  </video>
+      </div>
+    </div>
+    <div class="page-content" style='z-index:10000'>
+      <div class="wrap" style='color:rgb(0, 74, 255);background:rgba(255,255,255,0.95);z-index: 1000;'>
+      {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    </body>
+</html>
