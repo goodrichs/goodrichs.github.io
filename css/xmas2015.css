@@ -1,0 +1,13 @@
+.trip-list .flickr-embed-frame {
+  clear:both;
+  overflow:hidden;
+}
+
+.trip-list {
+  list-style:none;
+  clear:both;
+  overflow:hidden;
+}
+.trip-list > li {
+  clear:both;
+}
