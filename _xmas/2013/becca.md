@@ -1,7 +1,7 @@
 ---
-title : Becca
-description: The Noisy Dwarf 
+layout: post
 layout: xmas_2013
+title: Happy Birthday to Me!
 ---
 
 The dwarf of the clan is continually on a quest of discovery. When you are in kindergarten, life is an endless series of new experiences and sensations. Becca treats each experience like the Highlander, where she seems to absorb them. The main difference is, where the Highlander gained strength each time, Becca gains volume.

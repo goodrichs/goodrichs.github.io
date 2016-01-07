@@ -1,6 +1,10 @@
 .trip-list .flickr-embed-frame {
   clear:both;
   overflow:hidden;
+  box-shadow: 10px 10px 5px #888888;;
+}
+.flickr-embed-frame {
+  box-shadow: 1px 1px 1px #888888;;
 }
 
 .trip-list {
@@ -9,5 +13,12 @@
   overflow:hidden;
 }
 .trip-list > li {
-  clear:both;
+  float:left;
+  min-height: 400px;
+}
+
+.xmas-blurb {
+ background: rgba(255,0,0, 0.75);
+ color: #0F0;
+ padding: 1rem;
 }

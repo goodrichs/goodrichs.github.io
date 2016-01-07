@@ -4,11 +4,13 @@ title: Christmas
 permalink: /xmas/
 ---
 
+<p class='xmas-blurb'>
 Merry Christmas! Happy <whatever you do or don't celebrate>!
 
 This year's letter is, as always, a bit late and chock full of that Goodrich stuff you've been craving. This year's letter is, however, a bit different. We let Zoe (the dog) write it.
 
-So, [read on](/xmas/2015) and enjoy Christmas from Zoe's point-of-view.
+So, <a href='/xmas/2015'> read on</a> and enjoy Christmas from Zoe's point-of-view.
+</p>
 
 # The Posts of Christmas Past
 <ul class="posts">
