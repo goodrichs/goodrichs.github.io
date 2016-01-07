@@ -14,6 +14,10 @@ So, <a href='/xmas/2015'> read on</a> and enjoy Christmas from Zoe's point-of-vi
 
 # The Posts of Christmas Past
 <ul class="posts">
+  <li style="background: url(/images/xmas2015/zoe_selfie.jpg) left center/cover no-repeat">
+    <span class="post-date">December 25, 2015 </span>
+      <a class="post-link" href="/xmas/2015">2015: Zoe's Last Christmas</a>
+  </li>
   <li style="background: url(/images/xmas2014/main.jpg) left center/cover no-repeat">
     <span class="post-date">December 25, 2014 </span>
       <a class="post-link" href="/xmas/2012">2014: Timey, Wimey Christmas</a>
