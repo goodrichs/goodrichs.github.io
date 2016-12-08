@@ -56,7 +56,7 @@ Q: What about high school and cheerleading? Those were, like, lit or your bae or
 A: (<em>eyes rolling ALL THE WAY BACK INTO HER HEAD</em>) I guess. Sure. Cheerleading is, like, fun, I guess.
 </dd>
 <dt>
-Q: (<em>Like a cheerleader</em>) HEY EMMAAA! <strong>clap clap</strong> PAY ATTENTION TO ME! <strong>clap clap</strong> PUT DOWN YOUR DEVICE OR I WILL SMASH IT WITH A HAMMER! <strong>clap clap</strong>
+Q: (<em>Like a cheerleader</em>) HEY EMMAAA! <strong>clap clap</strong> PAY ATTENTION TO ME! <strong>clap clap</strong> PUT DOWN YOUR DEVICE <strong>clap clap</strong> OR I WILL SMASH IT <strong>clap clap</strong> WITH A HAMMER! <strong>clap clap</strong>
 </dt>
 <dd>
 A: (<em>Looks up briefly</em>) That, like, doesn't even rhyme, Dad.

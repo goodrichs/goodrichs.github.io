@@ -34,7 +34,7 @@ A: (<em>Emma, who is looking at her device, doesn't acknowledge me at all, but I
 Q: Emma? What is SnapChat? Why do you need it?
 </dt>
 <dd>
-A: (<em>still not looking at me</em>) C'mon, Dad! Like, everyone has it but, like, me. I won't, like, do anything dumb. It's, like, lit!
+A: (<em>still not looking at me</em>) C'mon, Dad! Like, everyone has it but, like, me. I won't, like, do anything dumb. It's, like, lit! (<em>She dabs.</em>)
 </dd>
 <dt>
 Q: (<em>sighs</em>) Fine. Do you think SnapChat was a big 2016 event for you?
@@ -61,7 +61,7 @@ Q: What about high school and cheerleading? Those were, like, lit or your bae or
 A: (<em>eyes rolling ALL THE WAY BACK INTO HER HEAD</em>) I guess. Sure. Cheerleading is, like, fun, I guess.
 </dd>
 <dt>
-Q: (<em>Like a cheerleader</em>) HEY EMMAAA! <strong>clap clap</strong> PAY ATTENTION TO ME! <strong>clap clap</strong> PUT DOWN YOUR DEVICE OR I WILL SMASH IT WITH A HAMMER! <strong>clap clap</strong>
+Q: (<em>Like a cheerleader</em>) HEY EMMAAA! <strong>clap clap</strong> PAY ATTENTION TO ME! <strong>clap clap</strong> PUT DOWN YOUR DEVICE <strong>clap clap</strong> OR I WILL SMASH IT <strong>clap clap</strong> WITH A HAMMER! <strong>clap clap</strong>
 </dt>
 <dd>
 A: (<em>Looks up briefly</em>) That, like, doesn't even rhyme, Dad.
@@ -82,7 +82,7 @@ A: (<em>At this point her eyes have rolled out of her head and the cat is playin
 Q: (<em>sighs</em>) Fine. Anything else you want to tell people about this year?
 </dt>
 <dd>
-A: (<em>Emma giggles here and I realize it's at something on her device. I am still not on her radar...until...</em> Daddy! Can you, like, take me and, like Haley and Zoe and Isabel and Emma and (<em>list truncated for time purposes</em>) to, like, the mall? PUUHHHH...LIKE...EEEEZ?j
+A: (<em>Emma giggles here and I realize it's at something on her device. I am still not on her radar...until...</em>) Daddy! Can you, like, take me and, like Haley and Zoe and Isabel and Emma and (<em>list truncated for time purposes</em>) to, like, the mall? PUUHHHH...LIKE...EEEEZ?j
 </dd>
 <dt>
 Q: (<em>sighs</em>) Fine. When do you want to leave?

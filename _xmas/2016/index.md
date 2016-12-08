@@ -4,7 +4,7 @@ layout: xmas_2016
 ---
 December 2016
 
-<img src="{{urls.media}}/images/xmas2016/main.png" style="width:100%"/>
+<img class="center" src="{{urls.media}}/images/xmas2016/main.png" />
 
 Merry Christmas! Happy Holidays! Merry end of 2016, which, frankly, can let the door hit it right in the backside on the way out. Between deaths of many beloved celebrities, like Prince, as well as many beloved institutions, like Democracy, 2016 was the obnoxious frat guy of years.
 
@@ -18,9 +18,10 @@ Ok, when you're ready to appreciate your station in life, read on. Each link bel
 
 The Interviews:
 
-* [Logan](logan.html)
-* [Emma](emma.html)
-* [Lily](lily.html)
-* [Becca](becca.html)
-* [Jill](jill.html)
-* [Glenn](glenn.html)
+* [Logan](logan)
+* [Emma](emma)
+* [Lily](lily)
+* [Becca](becca)
+* [Jill](jill)
+* [Glenn](glenn)
+* [The Pets](pets)

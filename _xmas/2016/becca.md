@@ -3,7 +3,7 @@ layout: post
 layout: xmas_2016
 title: Becca, Christmas 2016.
 ---
-Becca, now 8, spent much of 2016 very concerned with fairness. If things aren't fair, Becca will let you know in a way that makes you think she is actively on fire. In fact, she delivers most sentences at a decibel level that presumes she thinks you are several blocks away.
+Becca, now 9, spent much of 2016 very concerned with fairness. If things aren't fair, Becca will let you know in a way that makes you think she is actively on fire. In fact, she delivers most sentences at a decibel level that presumes she thinks you are several blocks away.
 
 Although Archie (the new dog) was Lily's gift, Becca has taken quite a shine to him. She not the most gentle person with poor Archie, though, often laying on top of him or pulling on his face like she's convinced he's the bad guy in a Scooby Doo cartoon. Oh, and Becca seems to have a condition where she'll start "dancing" in a way that more than one medical professional have called "like a seizure" and "something from an exorcism." We are not sure why she does this.
 
@@ -50,13 +50,14 @@ A: I got a new teacher this year, which is fair, because neither Logan nor Emma 
 Q: Neat. Do you like school?
 </dt>
 <dd>
-A: (<em>Becca doesn't answer, but she does break into a set of moves and contortions that would fit right into to a Rejects of Cirque du Soleil.</em>)
+A: (<em>Becca doesn't answer, but she does break into a set of moves and contortions that would fit right into to a Rejects of Cirque du Soleil reality show.</em>)
 </dd>
 <dt>
 Q: Please stop that. What do you research at school?
 </dt>
 <dd>
-A: Mostly egalitarian subjects, like "The Fairness of Families" and "The Absence of Doing Stuff is Inherently Unfair" No one came to my table on Parents Night, which is not fair. Oh, and Zebras. I LOOOOVE Zebras. (<em>She starts doing what I guess is the Zebra dance. I start speed-dialing a priest.</em>)
+A: Mostly egalitarian subjects, like "Chores: Doing Even One is Unfair!" No one came to my table on Parents Night, which is not fair. Oh, and Zebras. I LOOOOVE Zebras. (<em>She starts doing what I guess is the Zebra dance. I look away to fight the feeling of disorientation.</em>)
+</dd>
 <dt>
 Q: (<em>sighs</em>) What was your favorite trip the family took this year?
 </dt>

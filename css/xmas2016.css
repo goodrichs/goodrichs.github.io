@@ -9,7 +9,7 @@
 html, body { height: 100%; }
 
 body {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
@@ -529,4 +529,12 @@ dd {
 ul.footer_nav li {
   float: left;
   padding: 0 1em;
+}
+
+img.center {
+  display: block;
+  margin: auto;
+}
+ul {
+  padding-left: 2em;
 }

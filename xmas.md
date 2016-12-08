@@ -5,15 +5,15 @@ permalink: /xmas/
 ---
 
 <p class='xmas-blurb'>
-Merry Christmas! Happy <whatever you do or don't celebrate>!
-
-This year's letter is, as always, a bit late and chock full of that Goodrich stuff you've been craving. This year's letter is, however, a bit different. We let Zoe (the dog) write it.
-
-So, <a href='/xmas/2015'> read on</a> and enjoy Christmas from Zoe's point-of-view.
+I got lazier than usual this year and just interviewed the family. So, <a href='/xmas/2016'> read on</a> and enjoy Christmas from each family members' point-of-view.
 </p>
 
 # The Posts of Christmas Past
 <ul class="posts">
+  <li style="background: url(/images/xmas2016/square.png) left center/cover no-repeat">
+    <span class="post-date">December 25, 2016 </span>
+      <a class="post-link" href="/xmas/2016">2016: Christmas Interviews</a>
+  </li>
   <li style="background: url(/images/xmas2015/zoe_selfie.jpg) left center/cover no-repeat">
     <span class="post-date">December 25, 2015 </span>
       <a class="post-link" href="/xmas/2015">2015: Zoe's Last Christmas</a>
