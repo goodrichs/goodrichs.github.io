@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  {% include xmas_2016_head.html %}
+
+  <body>
+
+    {% include xmas_header.html %}
+
+    <div class="sky page-content" style='z-index:10000'>
+      <div class="color wrap" style='z-index: 1000;'>
+        {{ content }}
+      </div>
+    </div>
+
+    {% include xmas2016_footer.html %}
+
+    <script type="text/javascript">
+
+      jQuery(document).ready(function(){
+        jQuery("#gallery").unitegallery({
+          tiles_type: "justified"
+        });
+      });
+
+    </script>
+  </body>
+</html>
