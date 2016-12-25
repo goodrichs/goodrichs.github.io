@@ -1,4 +1,12 @@
-Becca, now 8, spent much of 2016 very concerned with fairness. If things aren't fair, Becca will let you know in a way that makes you think she is actively on fire. In fact, she delivers most sentences at a decibel level that presumes she thinks you are several blocks away.
+---
+layout: post
+layout: xmas_2016
+title: Becca, Christmas 2016.
+---
+Becca, now 8, spent much of 2016 very concerned with fairness. If things aren't fair, Becca will let you know in a way that makes you think she is actively on fire. In fact, she delivers most sentences at a decibel level that presumes you are several blocks away.
+
+  <img alt="Image 1 Title" src="/images/xmas2016/becca1.jpg"
+  data-image="/images/xmas2016/becca1.jpg" style="width: 15%;float:right" data-description="Image 1 Description">
 
 Although Archie (the new dog) was Lily's gift, Becca has taken quite a shine to him. She not the most gentle person with poor Archie, though, often laying on top of him or pulling on his face like she's convinced he's the bad guy in a Scooby Doo cartoon. Oh, and Becca seems to have a condition where she'll start "dancing" in a way that more than one medical professional have called "like a seizure" and "something from an exorcism." We are not sure why she does this.
 
@@ -20,6 +28,8 @@ A: Well, I used to do Piano, but then I stopped that because it wasn't fair beca
 <dt>
 Q: What do you do now, instead of Piano?
 </dt>
+  <img alt="Image 1 Title" src="/images/xmas2016/becca2.jpg"
+  data-image="/images/xmas2016/becca2.jpg" style="width: 15%;float:left" data-description="Image 1 Description">
 <dd>
 A: Dance. I do dance. We had a Halloween recital, which wasn't fair because Emma didn't have to do a recital.
 </dd>
@@ -45,19 +55,47 @@ A: I got a new teacher this year, which is fair, because neither Logan nor Emma 
 Q: Neat. Do you like school?
 </dt>
 <dd>
-A: (<em>Becca doesn't answer, but she does break into a set of moves and contortions that would fit right into to a Rejects of Cirque du Soleil.</em>)
+A: (<em>Becca doesn't answer, but she does break into a set of moves and contortions that would fit right into to a Rejects of Cirque du Soleil reality show.</em>)
 </dd>
 <dt>
 Q: Please stop that. What do you research at school?
 </dt>
 <dd>
-A: Mostly egalitarian subjects, like "The Fairness of Families" and "The Absence of Doing Stuff is Inherently Unfair" No one came to my table on Parents Night, which is not fair. Oh, and Zebras. I LOOOOVE Zebras. (<em>She starts doing what I guess is the Zebra dance. I start speed-dialing a priest.</em>)
+A: Mostly egalitarian subjects, like "The Unbearable Unfairness of Being" No one came to my table on Parents Night, which is not fair. Oh, and Zebras. I LOOOOVE Zebras. (<em>She starts doing what I guess is the Zebra dance. I look away to fight the feeling of disorientation.</em>)
+</dd>
 <dt>
 Q: (<em>sighs</em>) What was your favorite trip the family took this year?
 </dt>
+  <img alt="Image 1 Title" src="/images/xmas2016/becca3.jpg"
+  data-image="/images/xmas2016/becca3.jpg" style="width: 15%;float:right" data-description="Image 1 Description">
 <dd>
 A: We went to Hilton Head in September and that was my favorite. It was, by far, the fairest vacation. Our condo had a beds for every kid, which isn't always the case and I end up on the floor and that's not fair. We got to go on the beach and in the water, and there was very few people there. We fed the horses and shopped and went to a petting zoo. Oh, and I started dancing on the beach and several people pushed me into the water screaming "Save the uncoordinated fish!"
 </dd>
 </dl>
 
 While Becca's protestations of the unfair and many of her dances are off-putting, she is still danged cute. Her aspirations of 2017 include making the world fair and unmasking Archie.
+
+<div id="gallery" style="display:none;">
+  <img alt="Image 1 Title" src="/images/xmas2016/thumbs/becca4.jpg"
+  data-image="/images/xmas2016/becca4.jpg"
+  data-description="Image 1 Description">
+  <img alt="Image 1 Title" src="/images/xmas2016/thumbs/becca5.jpg"
+  data-image="/images/xmas2016/becca5.jpg"
+  data-description="Image 1 Description">
+  <img alt="Image 1 Title" src="/images/xmas2016/thumbs/becca6.jpg"
+  data-image="/images/xmas2016/becca6.jpg"
+  data-description="Image 1 Description">
+  <img alt="Image 1 Title" src="/images/xmas2016/thumbs/becca7.jpg"
+  data-image="/images/xmas2016/becca7.jpg"
+  data-description="Image 1 Description">
+  <img alt="Image 1 Title" src="/images/xmas2016/thumbs/becca8.jpg"
+  data-image="/images/xmas2016/becca8.jpg"
+  data-description="Image 1 Description">
+  <img alt="Image 1 Title" src="/images/xmas2016/thumbs/becca9.jpg"
+  data-image="/images/xmas2016/becca9.jpg"
+  data-description="Image 1 Description">
+  <img alt="Image 1 Title" src="/images/xmas2016/thumbs/becca10.jpg"
+  data-image="/images/xmas2016/becca10.jpg"
+  data-description="Image 1 Description">
+
+</div>
