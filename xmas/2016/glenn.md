@@ -56,7 +56,7 @@ Q: (<em>Ducks</em>) What the...?!? Did you just try to hit me with your book?
 A: Maybe. (<em>Stands on book</em>) I'M TALLER THAT YOU ARE! I'M TALLER THAN YOU ARE!
 </dd>
 <dt>
-Q: (<em>Signs</em>) Which trip did you most enjoy this eyar?
+Q: (<em>Sighs</em>) Which trip did you most enjoy this year?
 </dt>
 <dd>
 A: I think I'd have to say Colorado. It was good to see our friends and limp around on a cane (I hurt my knee the day before the trip) while everyone had fun gawking at the dispensaries. I went back in September for a Guys' Weekend where we played golf and often stayed up until 9:30 PM.
