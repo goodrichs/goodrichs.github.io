@@ -32,7 +32,7 @@ Ok, when you're ready to appreciate your station in life, read on. Each link bel
 * [Lily](lily)
 * [Becca](becca)
 * [Jill](jill)
-* [Glenn](index)
+* [Glenn](glenn)
 * [The Pets](pets)
 
 Well now, that was fun, wasn't it? This brings us to the end of another Goodrich Holiday Letter. Next year should bring such exciting things as Logan driving on his own, the family renovating the house (I like to call it "The Endebtening"), and Emma installing more baffling and short-lived apps on her device. So, as Lily would say, we hope your holiday season is "butt cheeks!"
