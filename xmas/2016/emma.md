@@ -99,7 +99,7 @@ A: Um, I dunno, whatever. I guess St. Augustine? It was, like, during cheerleadi
 Q: (<em>sighs</em>) Anything else you want to tell people about this year?
 </dt>
 <dd>
-A: (<em>Emma giggles here and I realize it's at something on her device. I am still not on her radar...until...</em>) Daddy! Can you, like, take me and, like Haley and Zoe and Isabel and Emma and (<em>list truncated for time purposes</em>) to, like, the mall? PUUHHHH...LIKE...EEEEZ?j
+A: (<em>Emma giggles here and I realize it's at something on her device. I am still not on her radar...until...</em>) Daddy! Can you, like, take me and, like Haley and Zoe and Isabel and Emma and (<em>list truncated for time purposes</em>) to, like, the mall? PUUHHHH...LIKE...EEEEZ?
 </dd>
 <dt>
 Q: (<em>sighs</em>) Fine. When do you want to leave?
