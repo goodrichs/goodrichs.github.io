@@ -9,10 +9,11 @@
 html, body { height: 100%; }
 
 body {
-  font-family: "Walter Turncoat", Helvetica, Arial, sans-serif;
+  /*font-family: "Walter Turncoat", Helvetica, Arial, sans-serif;*/
+  font-family: Helvetica, sans-serif;
   font-size: 16px;
   line-height: 1.5;
-  font-weight: 300;
+  font-weight: 500;
   background-color: #74AFAD;
   color: #ECECEA;
 
