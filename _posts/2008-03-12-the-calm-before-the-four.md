@@ -1,6 +1,6 @@
 ---
 layout: post
-title: V-Day
+title: The Calm Before the Four 
 date: 2008-03-12
 categories: Glenn
 thumbnail: /images/20080312/shapeimage_1.png

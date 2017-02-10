@@ -1,0 +1,37 @@
+---
+layout: post
+title: Distance Makes the Dad Grow Crazy
+date: 2008-03-19
+categories: Glenn
+thumbnail: /images/20080319/shapeimage_1.png
+---
+
+![I made it...eventually](/images/20080319/shapeimage_1.png)
+
+
+(In this scene, we find Glenn sitting in the Palm Springs International Airport.  He is disheveled and his eyes are somewhat puffy.  Chip, Glenn's boss, sits at the same table.  Glenn is checking his voice mail.)
+"YOU HAVE 1 NEW MESSAGE.  FIRST NEW MESSAGE."
+"Congrats, Daddy!  You have a baby girl....*garbled*
+"END OF MESSAGES"
+
+And that is how I found out the gender of Fin from our (invaluable) friend Betsy.  I made no real reaction, other than to tell Chip that Jill had a girl, followed by "Hmph.  Another girl."  Backing up a bit, Jill had started the day having mild contractions, unsure of their significance.  It isn't uncommon for a pregnant woman to contract, as her body "practices" for the forthcoming miracle.  She hadn't felt the baby in a few days, and was concerned that something was "not right."  I actually called her to say "Good Morning" and she told me to be on alert.  The doctor's appointment was at 2PM, we should know more then.  I told her that there was a great chance I'd be in a session at the conference, so she should call once and leave a message if all is well.  Otherwise, call, hang up, then call back and I'll know that things are afoot.  
+
+Roughly 2.5 hours later, I am sitting in my second session of the day and the phone vibrates.  It's Jill  I hit "Ignore" to send it to voice mail and stare at the phone.  A few seconds pass, and I start to exhale, thinking we are clear.  Then the phone vibrates again.  It's Jill.  Mild panic sets in.
+
+"Hey"
+(she answers shakily, because she is sobbing) "Something is wrong."
+
+I bolt straight up in the middle of the session, grab all my stuff and walk gingerly out of the session.  "What is it?" I ask.  Jill proceeds to explain that the baby's heartrate is low and the baby won't move.  Nurses and doctors are poking and prodding, but nothing seems to "wake up" Fin.  A wave of nausea comes over me and I sit down.  "I'm coming home."  She tells me to hold off, as it still could be nothing.  It didn't sound like nothing.  It sounded bad.  I start the kicking of myself.  What in the hell am I doing in Palm Springs?  Idiot.  Stupid, selfish idiot.  I ask to talk to the (earth inheriting) Dr. Meek.  He is not in the room with Jill right now, as she is hooked up to a monitor displaying the baby's heartrate.  "It keeps dipping low.  That's bad, right?  I mean, he said that is not good."  I try to assure her
+that neither of us are medical professionals, so we don't know what it means, but I am not very convincing.  "I'll call you back when Dr. Meek comes back in."
+
+I sprint up to the room and start packing.  What the HELL am I doing in Palm Springs???  Worried that my mobile phone won't work from the confines of the room, I call Jill.  "I am going to the hospital."  Wave of nausea, number 2.  "Lemme talk to Dr. Meek." I say.  The good doctor runs through all the medical reasons why he is not comfortable with the status of the baby.  I just want to know if I should come home.  He says, um, yes, but we probably won't wait on you.  Dammit.  This isn't funny anymore.
+
+The human race is an amazing, paradoxical thing.  We can circle Mars, land on the moon, replace a person's heart, but getting across the country on short notice in a single day still stumps us.  US Airways, who will get the brunt of my frustration, was not concerned about Jill and the baby.  US Airways was concerned that I didn't have $1100.  Which I didn't.   I could not change my return trip at all without going bankrupt.  While the person on the phone with me was as helpful as the airline policies would allow (which wasn't much) and she was personally affected by my plight, in the end they couldn't do anything.  Real panic sets in.  I am at a loss of what to do, so I call Kathy.  Kathy works for my company in the Take-Care-of-Everyone capacity.  She is utterly amazing and underpaid, no matter what she makes.  When she answers her phone, I start to explain what is happening and break down a bit.   This is the first time have said, out load, what is happening, and the sound of it makes me start to freak.   "I can't calm down, “ I say.  After I compose myself, I set her on the task of getting me home.  I frantically finish packing and get a text message from Chip (my boss) saying he has instructed Kathy to get me home no matter what it takes.  I know that Chip is gonna bear the burden for my epic stupidity and realize how unfairly lucky I am to work where I work.  Kathy calls and has me on a  2:43 flight out of Palm Springs, through Denver, getting me home at roughly midnight.  No idea how she did it.  I try to thank her and my voice cracks.  She knows, now get to the airport.  Go.
+
+The hotel shuttle driver meets me out front like he knows what is happening.  I call Jill to tell her I am on a flight and Betsy answers.  "So, the baby is coming out soon.  Jill is going in for a C-section and...", I interrupt her, "WHAT??!??"  "...erm, yeah, this baby has to come out now."  Wave of nausea.  WHAT THE HELL AM I DOING IN PALM SPRINGS???  I tell her to tell Jill I'll call her on the other side of security.  I know she is miserable.  Short of permanent damage to the baby, this is her worst case scenario.   It is unnatural and strangers are involved and her dumbass husband is in Palm Springs.
+
+I am at the airport about 8 minutes after Kathy's call.  Excellent.  The check in line is a bit long, but that might be because every second drips by at a snail's pace.   Every moment of waiting seems to take 10 moments.  I have to calm down.  As a side note, you may find it interesting to know that when you buy a one-way ticket at the last minute, you get flagged for every security check they have.  I had to sit to the side while they unpacked both bags, then get prodded and rubbed down by a large man.  The flight is delayed about an hour, so I have time.  Chip is actually at the airport, as he is flying back today.  We're on the same flight.  Thank God someone else is here to keep me from losing it. 
+
+I call Jill and tell her I will be in tonight.  The fear is evident in her voice, but she seems in good spirits.  I know it's a facade, but I swell a little bit with pride.  When you know that the person you love most in the world is strong enough, it's a good, good feeling.  I sit down with Chip and start beating myself up.  He talks me off the cliff, saying there was no way anyone could have seen this coming.  While I agree, I also agree that I am stupid man.  I can see both sides of it.  We sit there for about 45 minutes, time I spend staring at my phone with the intensity of a linebacker.  Freakishly, I get an alert that I have a voice mail.  How'd I miss the call?  Of all the calls for AT&T to muff, they pick this one.  I check the message, it's Betsy.   I have a new baby girl.  Everyone is seemingly OK.  I slump into the chair as partial relief sets in. 
+
+I still haven't met Fin yet.  I am writing this as we start our initial descent into Charlotte.  I am exhausted, hungry, smelly, excited, happy, anxious.  My guess is that I will never feel quite this mixture of emotions again.  The coming days are going to be filled with events that occur when a new life comes home.  Daddy's coming, baby.
