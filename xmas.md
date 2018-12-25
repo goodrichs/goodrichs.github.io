@@ -5,12 +5,12 @@ permalink: /xmas/
 ---
 
 <p class='xmas-blurb'>
-I got lazier than usual this year and just interviewed the family. So, <a href='/xmas/2016'> read on</a> and enjoy Christmas from each family members' point-of-view.
+If you are wondering what the latest growth around our house is, <a href='/xmas/2018/christmas2018.pdf'> read on</a>. I do not suggest you plan to eat before or after.
 </p>
 
 # The Posts of Christmas Past
 <ul class="posts">
-  <li style="background: url(/images/xmas2016/square.png) left center/cover no-repeat">
+  <li style="background: url(/images/xmas2018/square.png) left center/cover no-repeat">
     <span class="post-date">December 25, 2018 </span>
       <a class="post-link" href="/xmas/2018/christmas2018.pdf">2018: Skylar's Last Christmas</a>
   </li>
