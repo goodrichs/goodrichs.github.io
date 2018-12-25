@@ -11,6 +11,10 @@ I got lazier than usual this year and just interviewed the family. So, <a href='
 # The Posts of Christmas Past
 <ul class="posts">
   <li style="background: url(/images/xmas2016/square.png) left center/cover no-repeat">
+    <span class="post-date">December 25, 2018 </span>
+      <a class="post-link" href="/xmas/2018/christmas2018.pdf">2018: Skylar's Last Christmas</a>
+  </li>
+  <li style="background: url(/images/xmas2016/square.png) left center/cover no-repeat">
     <span class="post-date">December 25, 2016 </span>
       <a class="post-link" href="/xmas/2016">2016: Christmas Interviews</a>
   </li>
