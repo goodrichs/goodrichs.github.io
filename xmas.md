@@ -5,11 +5,15 @@ permalink: /xmas/
 ---
 
 <p class='xmas-blurb'>
-If you are wondering what the latest growth around our house is, <a href='/xmas/2018/christmas2018.pdf'> read on</a>. I do not suggest you plan to eat before or after.
+If you are wondering what's streaming from our house, <a href='/xmas/2019/christmas2019.pdf'> read on</a>. It's like Disney+, but...less so..
 </p>
 
 # The Posts of Christmas Past
 <ul class="posts">
+  <li style="background: url(/images/xmas2019/square.png) left center/cover no-repeat">
+    <span class="post-date">December 25, 2019 </span>
+      <a class="post-link" href="/xmas/2019/christmas2019.pdf">2019: The Goodrich Channel</a>
+  </li>
   <li style="background: url(/images/xmas2018/square.png) left center/cover no-repeat">
     <span class="post-date">December 25, 2018 </span>
       <a class="post-link" href="/xmas/2018/christmas2018.pdf">2018: Skylar's Last Christmas</a>
