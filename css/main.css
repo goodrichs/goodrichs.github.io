@@ -159,8 +159,8 @@ article {
 
 .home h1 { margin-bottom: 25px; }
 
-.posts { 
-  list-style-type: none; 
+.posts {
+  list-style-type: none;
   overflow: hidden;
   clear: both;
 }
@@ -367,7 +367,7 @@ article {
 }
 
 .Hero-blurb {
-  color: #2862AC;
+  color: #a61717;
   font-family: "Walter Turncoat", sans-serif;
   z-index: 10;
   position: absolute;
