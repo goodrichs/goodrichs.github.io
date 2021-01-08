@@ -5,11 +5,15 @@ permalink: /xmas/
 ---
 
 <p class='xmas-blurb'>
-If you are wondering what's streaming from our house, <a href='/xmas/2019/christmas2019.pdf'> read on</a>. It's like Disney+, but...less so..
+If you are wondering how we made it through 2020, <a href='/xmas/2020/christmas2020.pdf'> read on</a>. Anime-niacs, Sororities, Harry, and the Dead await... (note: This is a PDF, so if doesn't show in the brower, it may download to your computer. Check your downloads folder.)
 </p>
 
 # The Posts of Christmas Past
 <ul class="posts">
+  <li style="background: url(/images/xmas2020/square.jpg) left center/cover no-repeat">
+    <span class="post-date">December 25, 2020 </span>
+      <a class="post-link" href="/xmas/2020/christmas2020.pdf">2020: The Goodrich Pandemic</a>
+  </li>
   <li style="background: url(/images/xmas2019/square.png) left center/cover no-repeat">
     <span class="post-date">December 25, 2019 </span>
       <a class="post-link" href="/xmas/2019/christmas2019.pdf">2019: The Goodrich Channel</a>
