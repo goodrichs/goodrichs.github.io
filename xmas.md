@@ -5,11 +5,15 @@ permalink: /xmas/
 ---
 
 <p class='xmas-blurb'>
-If you are wondering how we made it through 2020, <a href='/xmas/2020/christmas2020.pdf'> read on</a>. Anime-niacs, Sororities, Harry, and the Dead await... (note: This is a PDF, so if doesn't show in the brower, it may download to your computer. Check your downloads folder.)
+BIG cambios are a foot in 2022, so <a href='/xmas/2023/christmas2023.pdf'> read on</a> to find out more. Let's just say the Goodrichs aren't in Kansas (or America) any more... (note: This is a PDF, so if doesn't show in the brower, it may download to your computer. Check your downloads folder.)
 </p>
 
 # The Posts of Christmas Past
 <ul class="posts">
+  <li style="background: url(/images/xmas2023/square.png) left center/cover no-repeat">
+    <span class="post-date">December 25, 2023 </span>
+      <a class="post-link" href="/xmas/2023/christmas2023.pdf">2023: Bienvenidos a Navidad</a>
+  </li>
   <li style="background: url(/images/xmas2020/square.jpg) left center/cover no-repeat">
     <span class="post-date">December 25, 2020 </span>
       <a class="post-link" href="/xmas/2020/christmas2020.pdf">2020: The Goodrich Pandemic</a>
