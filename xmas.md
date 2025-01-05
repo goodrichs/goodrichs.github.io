@@ -5,11 +5,16 @@ permalink: /xmas/
 ---
 
 <p class='xmas-blurb'>
-BIG cambios are a foot in 2022, so <a href='/xmas/2023/christmas2023.pdf'> read on</a> to find out more. Let's just say the Goodrichs aren't in Kansas (or America) any more... (note: This is a PDF, so if doesn't show in the brower, it may download to your computer. Check your downloads folder.)
+The 2024 Holiday Letter is here, so <a href='/xmas/2024/christmas2024.pdf'> dive in</a> and prepare for the kind of sophistication one would expect from people that live in Europe. All of these links are less processed than their US equivalent. (note: This is a PDF, so if doesn't show in the brower, it may download to your computer. Check your downloads folder.)
 </p>
 
 # The Posts of Christmas Past
+
 <ul class="posts">
+  <li style="background: url(/images/xmas2024/square.jpg) left center/cover no-repeat">
+    <span class="post-date">December 25, 2024 </span>
+      <a class="post-link" href="/xmas/2024/christmas2024.pdf">2024: Xmas in Europe (where we live)</a>
+  </li>
   <li style="background: url(/images/xmas2023/square.png) left center/cover no-repeat">
     <span class="post-date">December 25, 2023 </span>
       <a class="post-link" href="/xmas/2023/christmas2023.pdf">2023: Bienvenidos a Navidad</a>
