@@ -5,12 +5,16 @@ permalink: /xmas/
 ---
 
 <p class='xmas-blurb'>
-The 2024 Holiday Letter is here, so <a href='/xmas/2024/christmas2024.pdf'> dive in</a> and prepare for the kind of sophistication one would expect from people that live in Europe. All of these links are less processed than their US equivalent. (note: This is a PDF, so if doesn't show in the brower, it may download to your computer. Check your downloads folder.)
+The 2025 Holiday Letter is here, so <a href='/xmas/2025/christmas2025.pdf'> dive in</a> to a world of swarming ants, cat accountants, sitcoms, and college essays. (note: This is a PDF, so if doesn't show in the brower, it may download to your computer. Check your downloads folder.)
 </p>
 
 # The Posts of Christmas Past
 
 <ul class="posts">
+  <li style="background: url(/images/xmas2025/square.jpg) left center/cover no-repeat">
+    <span class="post-date">December 25, 2025 </span>
+      <a class="post-link" href="/xmas/2025/christmas2025.pdf">2025: It's a Big Bag Holiday </a>
+  </li>
   <li style="background: url(/images/xmas2024/square.jpg) left center/cover no-repeat">
     <span class="post-date">December 25, 2024 </span>
       <a class="post-link" href="/xmas/2024/christmas2024.pdf">2024: Xmas in Europe (where we live)</a>
