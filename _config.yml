@@ -1,13 +1,17 @@
 # Site settings
-title: Goodrichs.net 
+title: Goodrichs.net
 email: glenn@goodrichs.net
 description: "4. Loud. Kids."
 baseurl: ""
-url: "http://goodrichs.github.io"
+url: "https://goodrichs.net"
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 defaults:
   -
