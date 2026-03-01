@@ -1,7 +1,15 @@
 <!DOCTYPE html>
-<html>
-  {% include xmas_2012_head.html %}
-
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+    <link rel="stylesheet" href="{{ '/css/bootstrap.min.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/css/xmas2012.css' | relative_url }}">
+  </head>
   <body>
     <div class="navbar">
       <div class="navbar-inner">
@@ -12,28 +20,26 @@
     </div>
 
     <div class="container">
-
       <div class="content">
         {{ content }}
       </div>
 
       <footer>
-      <ul class="footer_nav">
-        <li><a href="/xmas/2012">Main</a></li>
-        <li><a href="/xmas/2012/glenn">Glenn</a></li>
-        <li><a href="/xmas/2012/jill">Jill</a></li>
-        <li><a href="/xmas/2012/logan">Logan</a></li>
-        <li><a href="/xmas/2012/emma">Emma</a></li>
-        <li><a href="/xmas/2012/lily">Lily</a></li>
-        <li><a href="/xmas/2012/becca">Becca</a></li>
-      </ul>
-      <div style="clear:both"></div>
-      <p>&copy; Goodrichs.NET 2012 Holiday Letter
-      </p>
+        <ul class="footer_nav">
+          <li><a href="/xmas/2012">Main</a></li>
+          <li><a href="/xmas/2012/glenn">Glenn</a></li>
+          <li><a href="/xmas/2012/jill">Jill</a></li>
+          <li><a href="/xmas/2012/logan">Logan</a></li>
+          <li><a href="/xmas/2012/emma">Emma</a></li>
+          <li><a href="/xmas/2012/lily">Lily</a></li>
+          <li><a href="/xmas/2012/becca">Becca</a></li>
+        </ul>
+        <div style="clear:both"></div>
+        <p>&copy; Goodrichs.NET 2012 Holiday Letter</p>
       </footer>
+    </div>
 
-    </div> <!-- /container -->
-    <script src="/assets/js/jquery.min.js"></script>
-    <script src="/assets/js/bootstrap-lightbox.min.js"></script>
+    <script src="{{ '/assets/js/jquery.min.js' | relative_url }}"></script>
+    <script src="{{ '/assets/js/bootstrap-lightbox.min.js' | relative_url }}"></script>
   </body>
 </html>

@@ -1,29 +1,28 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+  {% include head.html %}
+  <body>
+    {% include header.html %}
 
-  {% include xmas_2015_head.html %}
-
-    <body>
-
-    {% include xmas_header.html %}
-    <div class="Hero">
-      <div class='Hero-blurb'>
-	Merry Christmas!
+    <div class="hero">
+      <div class="hero__bg">
+        <video loop muted autoplay playsinline poster="/images/bg.jpg" class="hero__video">
+          <source src="/images/xmas2019/xmas2019.m4v" type="video/mp4">
+        </video>
       </div>
-      <div class="fullscreen-bg">
-	  <video loop muted autoplay poster="/images/bg.jpg" class="fullscreen-bg__video">
-       	<source src="/images/xmas2019/xmas2019.m4v" type="video/mp4">
-	  </video>
+      <div class="hero__overlay"></div>
+      <div class="hero__content">
+        <h1 class="hero__title">&#127876; Merry Christmas!</h1>
+        <p class="hero__subtitle">From the Goodrichs</p>
       </div>
     </div>
 
-    <div class="page-content">
+    <main class="page-content" id="main-content">
       <div class="wrap">
-      {{ content }}
+        {{ content }}
       </div>
-    </div>
+    </main>
 
     {% include footer.html %}
-
-    </body>
+  </body>
 </html>
